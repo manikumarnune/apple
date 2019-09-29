@@ -1,0 +1,11 @@
+using system;
+namespace Example
+{
+ Class HelloWorld
+ {
+  static void Main()
+   {
+    Console.WriteLine("");
+    }
+  }
+ }
